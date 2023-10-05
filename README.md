@@ -1,3 +1,6 @@
+[Cloudflare Zero Trust](https://voz.vn/t/huong-dan-dung-cloudflare-zero-trust.822971/) | [Cloudflare Worker](https://voz.vn/t/huong-dan-dung-cloudflare-zero-trust.822971/page-57#post-27865653) 
+***
+
 # Cloudflare Gateway Pi-hole Scripts (CGPS)
 
 ![Cloudflare Gateway Analytics screenshot](.github/images/gateway_analytics.png)
@@ -20,8 +23,6 @@ Cloudflare Gateway allows you to create custom rules to filter HTTP, DNS, and ne
 - Works fully unattended
 - Whitelist support, allowing you to prevent false positives and breakage by forcing trusted domains to always be unblocked.
 - Optional health check: Sends a ping request ensuring continuous monitoring and alerting for the workflow execution.
-
-## Usage
 
 ### Prerequisites
 
@@ -80,8 +81,6 @@ To see if e.g. your filter lists are valid without actually changing anything in
 
 **Warning:** This currently only works for `cf_list_create.js`.
 
-## Why not...
-
 ### Pi-hole or Adguard Home?
 
 - Complex setup to get it working outside your home
@@ -106,7 +105,3 @@ To see if e.g. your filter lists are valid without actually changing anything in
 ## License
 
 MIT License. See `LICENSE` for more information.
-
-## Donations
-
-If you would like to donate to support this project, you can do so via Liberapay - click the Sponsor button or see my GitHub profile for the link.
