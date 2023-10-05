@@ -1,4 +1,4 @@
-[Cloudflare Zero Trust](https://voz.vn/t/huong-dan-dung-cloudflare-zero-trust.822971/) | [Cloudflare Worker](https://voz.vn/t/huong-dan-dung-cloudflare-zero-trust.822971/page-57#post-27865653) 
+[Cloudflare Zero Trust](https://voz.vn/t/huong-dan-dung-cloudflare-zero-trust.822971/) | [Cloudflare Worker](https://voz.vn/t/huong-dan-dung-cloudflare-zero-trust.822971/page-57#post-27865653) | [NextDNS](https://voz.vn/t/tat-tan-tat-ve-dich-vu-nextdns.522718/) | [DNS profile](https://dns.notjakob.com/tool.html) 
 ***
 
 # Cloudflare Gateway Pi-hole Scripts (CGPS)
